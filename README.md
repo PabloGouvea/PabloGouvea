@@ -1,6 +1,5 @@
 <h2>Ola, meu nome é Pablo Gouvêa<h2>
 
-<
 
 <!---
 PabloGouvea/PabloGouvea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
