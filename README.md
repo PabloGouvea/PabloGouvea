@@ -1,6 +1,6 @@
 <h2>Ola, meu nome é Pablo Gouvêa<h2>
 
-<p>Atualmente estudo desenvolvimento front-end e tenho um apego muito grande pelo Design Gráfico<p>
+<h4>Atualmente estudo desenvolvimento front-end e tenho um apego muito grande pelo Design Gráfico<h4>
 
 <!---
 PabloGouvea/PabloGouvea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
